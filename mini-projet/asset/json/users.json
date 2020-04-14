@@ -1,0 +1,19 @@
+[
+	{
+		"prenom" : 'Alioune Badara',
+		'nom' : 'Diouf',
+		'login' : 'Abd2020',
+		'password' : 'alioune2020',
+		'img' : 'lien iamge',
+		'profile' : 'admin'
+	},
+	{
+		'prenom' : 'Moussa',
+		'nom' : 'Tine',
+		'login' : 'Emt2020',
+		'password' : 'moussa2020',
+		'img' : 'lien iamge',
+		'profile' : 'joueur'
+	}
+
+]

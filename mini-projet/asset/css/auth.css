@@ -1,0 +1,28 @@
+*{
+	margin: 0%;
+	padding: 0%;
+}
+body{
+	width: 100%;
+	margin: 0%;
+	padding: 0%;
+    background-size: cover;
+}
+#container{
+	width: 80%;
+	margin-left: 10%;
+	background-color: #F8F8FF;
+	padding-bottom: 10px;
+}
+#block-img{
+	width: 22%;
+	margin-top: 0px;
+}
+#block-img img{
+	width:90%;
+	height: 200px;
+	border-radius: 200px;
+}
+#log{
+	width: 3%;
+}

@@ -1,0 +1,19 @@
+[
+	{
+		"prenom" : "Alioune Badara",
+		"nom" : "Diouf",
+		"login" : "Abd2020",
+		"password" : "alioune2020",
+		"img" : "../../asset/img/imgUsers/admine1.jpg",
+		"profile" : "admin"
+	},
+	{
+		"prenom" : "Moussa",
+		"nom" : "Tine",
+		"login" : "Emt2020",
+	    "password" : "moussa2020",
+		"img" : "../../asset/img/imgUsers/joueur1.jpg",
+		"profile" : "joueur"
+	}
+
+]

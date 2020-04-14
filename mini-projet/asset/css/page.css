@@ -1,0 +1,178 @@
+    body {
+        margin: 0%;
+        padding: 0%;
+        width: 100%;
+        background-image: url("../img/images/img-bg.jpg");
+        background-size: cover;
+    }
+    
+    body .header {
+        width: 100%;
+        height: 70px;
+        background-color: black;
+        text-align: center;
+        color: white;
+        padding-top:5px;
+        padding-bottom: 5px;
+    }
+    h2 {
+        width: 40%;
+        margin-left: 30%;
+
+    }
+    
+    body .header img {
+        float: left;
+        vertical-align: middle;
+        height: 80px;
+    }
+    
+    .corps {
+
+        width: 95%;
+        margin-left: 2.5%;
+        background-color: white;
+        margin-top: 05px;
+    }
+    
+    .entete {
+        width: 100%;
+        height: 100px;
+        background-color: rgba(4, 163, 163, 0.733);
+        color: white;
+        text-align: center;
+        display: flex;
+    }
+    .entete form{
+        position: relative;
+        left: 10%;
+    }
+    
+    .entete #discon,
+    #next {
+        background-color: rgba(10, 238, 238, 0.733);
+        color: white;
+        display: inline-block;
+        height: 30px;
+        size: 20;
+        margin-top: 20px;
+        margin-right: 40px;
+    }
+    
+    .entete H2 {
+        display: inline-block;
+    }
+    
+    .section_menu_profil {
+        margin-left: 30px;
+        margin-top: 70px;
+        width: 410px;
+        height: 500;
+        border-radius: 3%;
+        box-shadow: inset 0 0, 0 0 2em rgba(173, 173, 173, 0.322);
+        display: inline-block;
+    }
+    
+    .section_menu_profil .profil {
+        height: 120px;
+        background: linear-gradient(to bottom, white, white 10%, rgba(4, 163, 163, 0.733));
+    }
+    
+    .section_menu_profil .profil .photo {
+        vertical-align: middle;
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        border: solid grey 1px;
+        display: inline-block;
+        margin-left: 30px;
+    }
+    
+    .section_menu_profil .profil .photo #image_profil {
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        margin: 10px;
+    }
+    
+    .section_menu_profil .profil .description {
+        display: inline-block;
+        margin-top: 30px;
+    }
+    
+    .section_menu_profil .profil .description em {
+        display: block;
+        color: white;
+    }
+    
+    .menu ul {}
+    
+    .menu li {
+        margin: 7px;
+        padding: 5px;
+        width: auto;
+        list-style: none;
+    }
+    
+    .menu li:hover {
+        background-color: rgba(231, 231, 231, 0.37);
+    }
+    
+    .menu li img {
+        float: right;
+        font-weight: bold;
+    }
+    
+    .Questionnaire {
+        width: 650px;
+        height: 400px;
+        position: relative;
+        bottom: 30px;
+        box-shadow: inset 0 0, 0 0 2em rgba(173, 173, 173, 0.322);
+        display: inline-block;
+    }
+    
+    .Questionnaire p,
+    input,
+    button {
+        display: inline-block;
+        margin-left: 20px;
+    }
+    
+    .Questionnaire .question {
+        border: solid black 1px;
+        margin-right: 20px;
+        margin-left: 20px;
+        padding: 2px;
+        border-radius: 3%;
+    }
+    
+    .Questionnaire .footer {
+        height: 40px;
+        background-color: rgb(192, 192, 192);
+        position: relative;
+        top: 115px;
+    }
+    
+    .Questionnaire .question ul {
+        margin: 0px;
+    }
+    
+    .Questionnaire .question ul li {
+        list-style: circle;
+        color: rgb(5, 185, 185);
+    }
+    
+    .Questionnaire .question ul li em {
+        color: black;
+    }
+    
+    #next {
+        position: relative;
+        bottom: 15px;
+        float: right;
+    }
+    
+    #b_Ok {
+        background-color: rgba(94, 94, 255, 0.534);
+    }

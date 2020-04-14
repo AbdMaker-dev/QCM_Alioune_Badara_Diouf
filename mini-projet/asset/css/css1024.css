@@ -1,0 +1,30 @@
+@media screen and (max-width: 1062px) {
+
+#block-img {
+	width: 25%;
+}
+#block-img img {
+	height: 170px;
+	border-radius: 190px;
+}
+}
+
+@media screen and (max-width: 1024px) {
+#log{
+	width: 2.2%;
+}
+#block-img {
+	width: 20%;
+}
+#block-img img {
+	height: 140px;
+	border-radius: 150px;
+}
+}
+
+
+
+
+
+
+

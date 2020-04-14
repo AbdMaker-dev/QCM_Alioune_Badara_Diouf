@@ -1,0 +1,15 @@
+.photoj{
+	width: 6%;
+	margin-left: 1%;
+
+}
+.photoj img{
+	width: 100%;
+	border-radius: 50%;
+}
+.descriptionj{
+	display: flex;
+}
+.descriptionj em {
+	margin-left: 5px;
+}
